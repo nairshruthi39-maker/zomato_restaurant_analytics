@@ -143,6 +143,23 @@ Continental and Café for maximum customer volume.
    restaurant success
 
 ---
+## Power BI Dashboard
+
+An interactive Power BI dashboard was built to complement the Python 
+analysis, recreating the key findings as interactive visuals with 
+location and online order filters.
+
+![Zomato Power BI Dashboard](zomato_powerbi_dashboard.png)
+
+**Dashboard features:**
+- 6 interactive visuals across cuisine, restaurant type, 
+  online ordering and pricing analysis
+- Location slicer to filter by Bangalore area
+- Online order slicer to compare ordering modes
+- Built using Power BI Desktop with DAX measures for 
+  custom calculations
+
+---
 
 ## What I Learned
 This project taught me that real-world data always needs cleaning 
